@@ -3,9 +3,14 @@
 // ******************** //
 const array = [1, 2, 3, 4, 5];
 
-// Notes: 
+// ****** //
+// Notes: //
+// ****** //
+
 // 1. Remember, .forEach() CANNOT return anything, ever. No matter what. Ever!
+
 // 2. .forEach() is good for modifying things outside the array that depend on what is inside the array.
+
 // 3. Named callback functions automatically receive the parameters that the higher-order function can pass on.
     // 3.1 For more info on .forEach(), read up on it here: https://www.w3schools.com/jsref/jsref_foreach.asp
 
